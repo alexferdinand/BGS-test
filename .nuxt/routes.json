@@ -1,0 +1,23 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/home/alf/Документы/TestWorks/BGS/BGS-test/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_69eaa0d0"
+  },
+  {
+    "name": "profile",
+    "path": "/profile",
+    "component": "/home/alf/Документы/TestWorks/BGS/BGS-test/pages/profile.vue",
+    "chunkName": "pages/profile",
+    "_name": "_2e4a0018"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/alf/Документы/TestWorks/BGS/BGS-test/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_01630c81"
+  }
+]
