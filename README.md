@@ -12,3 +12,12 @@
 
 - Открыть в браузере [страницу](http://localhost:3000/)
 
+- Login: fominsa, Password: dfdf
+
+### Приложение на Netlify
+
+ [https://practical-leakey-a34d52.netlify.app/](https://practical-leakey-a34d52.netlify.app/)
+
+
+
+
