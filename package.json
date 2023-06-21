@@ -17,7 +17,7 @@
   "dependencies": {
     "@nuxtjs/auth": "^4.9.0",
     "@nuxtjs/axios": "^5.11.0",
-    "nuxt": "^2.13.0",
+    "nuxt": "^3.4.3",
     "sha1": "^1.1.1",
     "miragejs": "^0.1.40"
   },
